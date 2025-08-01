@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Bahadur Bam</h1>
 <h3 align="center">I am an IT student.</h3>
-<img align="right" alt="coading" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b9524jizw1npyi8bvgkg3yudkxp0gg74zks3c5k4uha5&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamarjun&label=Profile%20views&color=0e75b6&style=flat" alt="bamarjun" /> </p>
 
